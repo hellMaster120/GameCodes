@@ -1,8 +1,7 @@
 
-function LoadPassWords(){}
-function LoadEmailes(){
+
  Pass = "ewrwe"
-}
+
 var Code = `
   console.log(Pass)
 `
