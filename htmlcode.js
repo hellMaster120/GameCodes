@@ -1,7 +1,4 @@
-
-
- Pass = "ewrwe"
-
+Pass = "ewrwe"
 var Code = `
   console.log(Pass)
 `
