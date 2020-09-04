@@ -1,11 +1,10 @@
-Pass = "ewrwe"
+
 var Code = `
-  console.log(Pass)
+Users = ["Admin"]
+Emaile = ["kshellenbarger24","kshellenbarger24@buckeyeschools.org"]
+PassWords = ["PassWord"]
+  console.log(Emaile[0])
 `
-function LoadHtml(){
-  
-}
-function CheckEmail(){}
 document.head.innerHTML = ""
 document.body.innerHTML = ""
 var Body = document.body
